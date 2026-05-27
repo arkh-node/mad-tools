@@ -3,6 +3,10 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .DS_Store
+*.egg-info/
+**/.env
+**/secrets.env
+**/identity_layers.yaml
 
 # build artifacts
 *.egg-info/
