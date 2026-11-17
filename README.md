@@ -1,7 +1,7 @@
 # madd_kit
 
 ```
-[M·A·D]  model · agent · destruction
+[M·A·D]  model · agent · diagnostic · destruction
 ```
 
 **maddteam toolkit для security-исследований ИИ и bug bounty.**
